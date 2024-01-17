@@ -1,2 +1,2 @@
 # rpglms_go
-GO Lms Backen
+RPGLMS Backend in GO
