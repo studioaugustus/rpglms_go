@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/studioaugustus/rpglms_go/internal/app"
+	"github.com/studioaugustus/rpglms_go/backend/internal/app"
 )
 
 func main() {
