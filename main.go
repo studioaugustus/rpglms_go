@@ -3,10 +3,12 @@ package main
 import (
 	"log"
 	"net/http"
+
+	"github.com/studioaugustus/rpglms_go.git/internal/app"
 )
 
 func main() {
-    handler := rpglms.NewHandler()
+    handler := app.NewHandler()
     http.HandleFunc("/", handler.ServeHTTP)
 
     log.Println("Starting server on :8080")
