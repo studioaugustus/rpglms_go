@@ -1,3 +1,3 @@
-module github.com/studioaugustus/rpglms_go.git
+module github.com/studioaugustus/rpglms_go
 
 go 1.21.6

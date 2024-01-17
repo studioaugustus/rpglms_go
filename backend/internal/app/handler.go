@@ -1,4 +1,4 @@
-package rpglms
+package app
 
 import "net/http"
 

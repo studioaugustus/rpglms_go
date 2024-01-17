@@ -1,4 +1,4 @@
-package main
+package rpglms_go
 
 import (
 	"log"
